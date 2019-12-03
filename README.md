@@ -2,7 +2,7 @@
 
 https://adventofcode.com/2019 with Kotlin 
 - [X] Day 1
-- [ ] Day 2
+- [X] Day 2
 - [ ] Day 3
 - [ ] Day 4
 - [ ] Day 5
